@@ -10,6 +10,7 @@ namespace Session03
  	    Console.WriteLine("Master - Commit 1");
 	    Console.WriteLine("Master - Commit 2");
 	    Console.WriteLine("Issue1 - Commit 1");
+	    Console.WriteLine("Issue1 - Commit 2");
 	}
     }
 }
