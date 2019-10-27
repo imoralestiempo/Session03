@@ -8,6 +8,7 @@ namespace Session03
         {
             Console.WriteLine("Hello World!");
  	    Console.WriteLine("Master - Commit 1");
+	    Console.WriteLine("Master - Commit 2");
 	}
     }
 }
